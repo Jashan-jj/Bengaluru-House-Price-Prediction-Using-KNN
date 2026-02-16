@@ -1,1 +1,1 @@
-# Bengaluru-House-Pricediction-Using-KNN
+# Bengaluru-House-Price-Prediction-Using-KNN
